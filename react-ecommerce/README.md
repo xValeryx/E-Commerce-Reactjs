@@ -1,3 +1,19 @@
+#  E-commerce -  Amazon clone
+
+
+![Screenshot (365)](https://user-images.githubusercontent.com/101188945/180966255-83d5e6f9-7188-4faf-918f-c39d1bd8d4d0.png)
+
+![Screenshot (366)](https://user-images.githubusercontent.com/101188945/180966379-95357ad0-900b-46d2-8a33-6434772b06ed.png)
+
+![Screenshot (368)](https://user-images.githubusercontent.com/101188945/180966409-a3f062e2-c24d-4f44-af79-e9c455e247cf.png)
+
+
+##  Strumenti 
+-  React
+- Javascript
+-  CSS
+- HTML
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
